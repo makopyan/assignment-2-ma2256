@@ -1,0 +1,8 @@
+output_dir: "."
+navbar:
+  title: "Maria's Collaborative Website"
+  left:
+    - text: "Maria"
+      href: maria.html
+    - text: "Nina"
+      href: nina.html
