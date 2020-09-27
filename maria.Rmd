@@ -1,0 +1,18 @@
+---
+title: "Maria Akopyan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## My Personal Page 
+
+**A few facts about me**  
+
+- I was born and raised in Glendale, CA, a city just a few miles from Los Angeles that maintains one of the largest populations of Armenians in the world (my parents immigrated from Armenia just before my birth).  
+
+- If I weren't pursuing a career in science, I'd want to be a production designer for live events (e.g., music, dance, and theater).
+
+- I've swam with whale sharks in Baja California on several occasions - an experience that inspired my love for marine biology. 
