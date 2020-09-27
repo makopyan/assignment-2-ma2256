@@ -1,7 +1,8 @@
 output_dir: "."
 navbar:
-  title: "Maria's Collaborative Website"
   left:
+    - text: "Maria's Collaborative Website"
+      href: index.html
     - text: "Maria"
       href: maria.html
     - text: "Nina"
