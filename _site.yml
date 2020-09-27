@@ -9,3 +9,5 @@ navbar:
 output: 
   html_document:
     toc_float: yes
+    collapsed: no
+    self_contained: no
