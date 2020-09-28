@@ -7,6 +7,3 @@ navbar:
       href: maria.html
     - text: "Nina"
       href: nina.html  
-output: 
-  html_document:
-    toc_float: yes
