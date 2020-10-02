@@ -7,6 +7,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is [Maria](https://github.com/makopyan)'s website with contribution from collaborator [Nina](https://github.com/nt246).
+This is [Maria](https://github.com/makopyan)'s website with contribution from collaborator [Shitaye](https://github.com/Shitaye19).
 
 ![NTRES6940 Logo](https://nt246.github.io/NTRES6940-data-science/assets/logo.png)
