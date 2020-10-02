@@ -1,0 +1,14 @@
+---
+title: "Shitaye"
+author: "Shitaye Homma"
+date: "10/1/2020"
+output: html_document
+---
+. A PhD candidate
+. Breeder and geneticist for wheat improvement
+. passionate about addressing the problem of Celiac disease through gene editing of the gluten component of wheat
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
