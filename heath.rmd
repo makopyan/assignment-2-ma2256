@@ -1,0 +1,19 @@
+---
+title: "Heath"
+author: "Heath"
+date: "09/10/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<br>
+
+## Info about Me
+
+* I am a PhD student     
+  + in Ecology and Evolutionary Biology
+* I love travelling
+* I love beaches
